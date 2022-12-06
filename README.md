@@ -5,10 +5,10 @@ Project Description
 
 Project Name: CyberFaith
 
-Introduction
+INTRODUCTION
 This is a real-time interactive code project that controls the animation of 3D images through Mimetic risk on the MIMIC platform. You will need to obtain your microphone permissions when opening this file. To better experience the work, turn the sound outside and adjust it to a medium volume (you will hear some ambient noise and the sound you are making after computer processing).
 
-Inspiration
+INSPIRATION
 The concept for the project comes from an app called Electronic Muyu, which has recently become popular among young people in China. As a typical religious article, Muyu expresses Buddhist culture to a certain extent. Nowadays, some young people, when facing heavy pressure, will tap the screen of mobile phone, ipad, iwatch and other electronic devices to simulate the action of tapping the real wooden fish. Their behavior can be seen as the cyberization of religion.
 
 
