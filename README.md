@@ -13,19 +13,26 @@ INTRODUCTION
 This is a real-time interactive code project that controls the animation of 3D images through Mimetic risk on the MIMIC platform. You will need to obtain your microphone permissions when opening this file. To better experience the work, turn the sound outside and adjust it to a medium volume (you will hear some ambient noise and the sound you are making after computer processing).
 
 
-![1](https://user-images.githubusercontent.com/119879045/205789241-a0d77640-d4f0-4c49-b371-6d6c451b9f15.png)
-           Some pictures of Buddha statues.
-
-
-![木鱼2](https://user-images.githubusercontent.com/119879045/205790378-689074f2-dacc-41f0-adf6-18327a83643c.png)
-           Some pictures of the "wooden fish" used by monks in Buddhist culture.
-
-
 INSPIRATION
 The concept for the project comes from an app called Electronic Muyu, which has recently become popular among young people in China. As a typical religious article, Muyu expresses Buddhist culture to a certain extent. Nowadays, some young people, when facing heavy pressure, will tap the screen of mobile phone, ipad, iwatch and other electronic devices to simulate the action of tapping the real wooden fish. Their behavior can be seen as the cyberization of religion.
 
+![1](https://user-images.githubusercontent.com/119879045/205789241-a0d77640-d4f0-4c49-b371-6d6c451b9f15.png)
+           Some pictures of Buddha statues.
+
+![木鱼2](https://user-images.githubusercontent.com/119879045/205790378-689074f2-dacc-41f0-adf6-18327a83643c.png)
+           Some pictures of the "wooden fish" used by monks in Buddhist culture.
+           
+![佛珠](https://user-images.githubusercontent.com/119879045/205791282-160e3150-e314-40cf-aefd-c61ca431e91a.png)
+           Some pictures of Buddha beads in Buddhist culture.
+           
+![IMG_6127](https://user-images.githubusercontent.com/119879045/205791714-e81c9173-30ff-4db3-a833-a5ad00e73765.jpg)
+           A popular "Wooden Fish" app for stress relief in China.
 
 I used 3D spheres to simulate the shape of Buddhist beads and added some textures and materials with religious significance to them. I tried to control the animation effect of 3D graphics through the ambient noise and human speaking voice collected by the microphone.
+
+![IMG_5720](https://user-images.githubusercontent.com/119879045/205792491-34fc5c30-2ba6-483f-9875-14cddfc65fbc.jpg)
+![IMG_5718](https://user-images.githubusercontent.com/119879045/205792517-e48ef1bb-62d8-4d0a-9b0a-2dd74d41f68d.jpg)
+![IMG_5719](https://user-images.githubusercontent.com/119879045/205792547-734cee90-149c-44d9-a648-fc5b9f21a090.jpg)
 
 
 PART ONE
