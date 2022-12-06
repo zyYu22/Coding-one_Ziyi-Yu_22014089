@@ -3,6 +3,10 @@ This is the final assignment for Ziyi Yu(22014089).
 
 Project Description
 
+
+<img width="1425" alt="截屏2022-12-06 01 45 43" src="https://user-images.githubusercontent.com/119879045/205788460-b4c77cf8-4e64-4641-b2c1-7a554d9c8d64.png">
+
+
 Project Name: CyberFaith
 
 INTRODUCTION
