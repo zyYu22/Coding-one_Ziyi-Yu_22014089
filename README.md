@@ -22,5 +22,3 @@ This part of the code mainly sets up a 3D scene and draws 3 large spheres and 9 
 The analysis
 In this project, I mainly used the sound and 3D knowledge involved in this semester's courses. In the process of creation, I also made some attempts on shader, but unfortunately, I did not finish the final effect. In the animation design, due to the use of fewer models so that the picture does not look very full. This project only uses some of the simplest codes. In the following study, I hope to continue to explore the use of matrix in 3D environment, reference and use of 3D models and other knowledge.
 
-
-![image](https://user-images.githubusercontent.com/119879045/205729618-59acf240-57bf-41a5-8134-b370c2dd248a.png)
