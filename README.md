@@ -1,5 +1,8 @@
 # Coding-one_Ziyi-Yu_22014089
 This is the final assignment for Ziyi Yu(22014089).
+MIMICPROJECT:
+
+https://mimicproject.com/code/a58e767b-ac29-90ca-8b1b-a3ae8e653871
 
 Project Description
 
