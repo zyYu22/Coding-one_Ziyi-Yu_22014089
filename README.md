@@ -6,6 +6,7 @@ Project Description
 Project Name: CyberFaith
 
 INTRODUCTION
+
 This is a real-time interactive code project that controls the animation of 3D images through Mimetic risk on the MIMIC platform. You will need to obtain your microphone permissions when opening this file. To better experience the work, turn the sound outside and adjust it to a medium volume (you will hear some ambient noise and the sound you are making after computer processing).
 
 INSPIRATION
